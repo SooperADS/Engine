@@ -1,0 +1,11 @@
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define SDI_GL_DLL_API_H
+#define SDI_GL_DLL_API
+#define TRUE
+#define staticOption
+#define SDI_GL_DLL_API_T __declspec(dllexport)
+#define SDI_GL_DLL_API_T __declspec(dllimport)
+#define NULL
+#define NULL ((void *)0)

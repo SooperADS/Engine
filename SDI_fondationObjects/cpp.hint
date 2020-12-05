@@ -1,0 +1,8 @@
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define __sdi_foundationObjectLib_API __declspec(dllexport)
+#define __sdi_foundationObjectLib_API __declspec(dllimport)
+#define NULLBODY {}
+#define SDI_DLL_API __declspec(dllexport)
+#define SDI_DLL_API __declspec(dllimport)

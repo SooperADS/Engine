@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SDI::Basic_SDIRef&lt;storageType&gt;">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAgAAAAAAQgAAAAAAAAQQEAgAACIAAA=</HashCode>
+      <FileName>include\SDI\basicSDIObjects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SDI::Basic_SDIDataStorage&lt;storageType&gt;">
+    <Position X="8.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAEAACAABAgAgAgAAABAAQAAQAACAAQAAAAwAASASAQ=</HashCode>
+      <FileName>include\SDI\basicSDIObjects.h</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.21" />
+  </Struct>
+  <Interface Name="SDI::IBasic_SDIFondationObject&lt;basicType&gt;">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQEAAAAQIAAA=</HashCode>
+      <FileName>include\SDI\basicSDIObjects.h</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
